@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /private/
+Disallow: /tmp/
+Sitemap: https://www.votresite.com/sitemap.xml
