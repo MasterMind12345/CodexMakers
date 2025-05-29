@@ -5,7 +5,7 @@
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <!-- Page d'accueil - Priorité maximale -->
     <url>
-        <loc>https://www.codexmakers.com/</loc>
+        <loc>https://codex-makers-git-master-masterminds-projects-92e47f4d.vercel.app/</loc>
         <lastmod>2025-05-30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
